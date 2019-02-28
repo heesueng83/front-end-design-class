@@ -3,7 +3,7 @@
 ## 프론트엔드 디자인
 프론트엔드 디자인 과외 관련 자료를 공유합니다.
 
-![Web Design Workflow](https://www.digitalglue.eu/wp-content/uploads/2019/02/iStock-837392998.jpg)
+![Web Design Workflow](https://i.imgur.com/Qh7nkfG.png)
 
 ### 1. GitHub Page 생성
 - [ ] GitHub.io 페이지 생성
