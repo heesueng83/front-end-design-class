@@ -1,5 +1,5 @@
-# 프론트엔드 디자인
-프론트엔드 디자인 과외 관련 자료를 공유합니다.
+# 프론트엔드 디자인 과외
+> 프론트엔드 디자인 과외 관련 자료를 공유합니다.
 
 ![Web Design Workflow](https://i.imgur.com/Qh7nkfG.png)
 
