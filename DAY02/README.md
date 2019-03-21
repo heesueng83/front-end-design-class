@@ -13,8 +13,8 @@
 - 펜과 종이를 사용한 스케치
   - UI 화면 설계
   <br>
-  ![](https://i.imgur.com/EZQOUzP.png)
-  ![](https://i.imgur.com/oiNvEAP.png)
+![](https://i.imgur.com/EZQOUzP.png)
+![](https://i.imgur.com/oiNvEAP.png)
 
 - 디자인 소프트웨어로 제작
   - UX 화면 설계
