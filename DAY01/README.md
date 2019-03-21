@@ -3,6 +3,10 @@
 <br>
 
 ## GitHub 형상 관리
+
+<br>
+
+![](https://i.imgur.com/NxoHnE8.png)
 > 프로젝트의 파일 버전관리 및 GitHub Page를 통해 도메인을 생성하여 웹 페이지를 제작합니다.
 
 <br>
